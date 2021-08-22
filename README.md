@@ -7,10 +7,10 @@
 
 - 🔭 _Student ..._
 - :man_student: _Computer Science Engineering ..._
-- 🤔 _I’m looking for **Job opportunity** to  Enhance my skills ..._ 
-- 💬 _Ask me about ..._
-    * SQL
-    * C
+- 🤔 _I’m looking for help to Enhance my skills ..._ 
+- 💬 _Ask me for ..._
+    * Peer in your project
+    * Partner in your sucess
  
 - 📫 _Hit me with Your better vibes..._
     
@@ -20,7 +20,7 @@
     <br>
     <br>
     
-**Tools:**
+**Languages:**
     <br>
     <br>
     <img src="https://image.flaticon.com/icons/png/512/919/919839.png" width="30" height="30">
@@ -28,7 +28,16 @@
     <img src="https://image.flaticon.com/icons/png/512/2772/2772123.png" width="30" height="30">
     <img src="https://image.flaticon.com/icons/png/512/888/888859.png" width="30" height="30">
     <img src="https://image.flaticon.com/icons/png/512/919/919826.png" width="30" height="30">
+    <br>
+    <br>
+    **Tools:**
+    <br>
+    <br>
     <img src="https://image.flaticon.com/icons/png/512/906/906308.png" width="30" height="30">
+    <img src="https://image.flaticon.com/icons/png/512/906/906324.png" width="30" height="30">
+    <img src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" width="30" height="30">
+    <img src="https://seeklogo.com/images/V/virtual-box-logo-2BE2AD5F0F-seeklogo.com.png" width="45" height="20">
+    <img src="https://seeklogo.com/images/A/autodesk-maya-logo-A8D58F0B59-seeklogo.com.jpg" width="30" height="30">
       <br>
       <br>
       
