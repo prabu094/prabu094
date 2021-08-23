@@ -1,8 +1,6 @@
 ### Hi there 👋,I'm Prabu!
 <br>
-<br>
-<img src="https://image.flaticon.com/icons/png/512/5020/5020976.png" width="200" height="200">
-<br>
+<img src="https://image.flaticon.com/icons/png/512/5020/5020976.png" width="100" height="100">
 
 
 - 🔭 _Student ..._
