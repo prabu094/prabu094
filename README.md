@@ -3,9 +3,9 @@
 <img src="https://image.flaticon.com/icons/png/512/5020/5020976.png" width="100" height="100">
 
 
-- 🔭 _Student ..._
+
 - :man_student: _Computer Science Engineering ..._
-- 🤔 _I’m looking for help to Enhance my skills ..._ 
+
 - 💬 _Ask me for ..._
     * Peer in your project
     * Partner in your sucess
