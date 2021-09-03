@@ -12,7 +12,7 @@
  
 - 📫 _Hit me with Your better vibes..._
     
-    [**Mail**](18104094@hicet.ac.in): 18104094@hicet.ac.in
+    **Mail**: prabuk21@outlook.com
     
     [**HackeRrank**](https://www.hackerrank.com/h18104094)
     
